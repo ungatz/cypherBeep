@@ -1,16 +1,30 @@
-### Hi there 👋
+<h3 align="left">
 
-<!--
-**sanadKadu/sanadKadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <abc>
 
-Here are some ideas to get you started:
+  <br>👋 Hi, I'm Sanad.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br> I'm a Deleuzian interacting with Computers. <br>
+
+  <br>
+
+    <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="500" height="400">
+
+ </abc>
+
+</h3> 
+
+
+
+   ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow)  ![](https://img.shields.io/badge/C++-%7C-yellowgreen) 
+   
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
+
+
+- :telescope: I'm currently exploring Node.
+
+- :hourglass_flowing_sand: Experimenting with JS and learning React
+
+- :mailbox: If you want to contact use : sanaddilipkadu@gmail.com
+
