@@ -17,14 +17,13 @@
 
    ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow)  ![](https://img.shields.io/badge/C-%7C-yellowgreen) 
    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanadKadu" alt="sanadKadu" /> </p>
-<br>
 
 
 
-- :telescope: I'm currently exploring Node.
 
-- :hourglass_flowing_sand: Experimenting with JS and learning React
+- :telescope: I'm currently trying not to be a bum.
+
+- :hourglass_flowing_sand: Experimenting with JS and learning modern web technologies.
 
 - :mailbox: If you want to contact use : sanaddilipkadu@gmail.com
 
