@@ -36,8 +36,8 @@ src="https://komarev.com/ghpvc/?username=sanadkadu&label=Profile%20views&color=0
 
 
 
-- ~~~~~~~ I'm currently working on some coursera courses and trying not to be a bum.
+-  𝕴'𝖒 𝖈𝖚𝖗𝖗𝖊𝖓𝖙𝖑𝖞 𝖜𝖔𝖗𝖐𝖎𝖓𝖌 𝖔𝖓 𝖘𝖔𝖒𝖊 𝖈𝖔𝖚𝖗𝖘𝖊𝖗𝖆 𝖈𝖔𝖚𝖗𝖘𝖊𝖘 𝖆𝖓𝖉 𝖙𝖗𝖞𝖎𝖓𝖌 𝖓𝖔𝖙 𝖙𝖔 𝖇𝖊 𝖆 𝖇𝖚𝖒
 
-- ~~~~~~~ Also I am trying to understand modern web technologies and convincing myself that I understand JS.
+-  𝕬𝖑𝖘𝖔 𝕴 𝖆𝖒 𝖙𝖗𝖞𝖎𝖓𝖌 𝖙𝖔 𝖚𝖓𝖉𝖊𝖗𝖘𝖙𝖆𝖓𝖉 𝖒𝖔𝖉𝖊𝖗𝖓 𝖜𝖊𝖇 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘 𝖆𝖓𝖉 𝖈𝖔𝖓𝖛𝖎𝖓𝖈𝖎𝖓𝖌 𝖒𝖞𝖘𝖊𝖑𝖋 𝖙𝖍𝖆𝖙 𝕴 𝖚𝖓𝖉𝖊𝖗𝖘𝖙𝖆𝖓𝖉 𝕵𝕾.
 
-- ~~~~~~~ If you want to contact use : sanaddilipkadu@gmail.com
+-  𝕴𝖋 𝖞𝖔𝖚 𝖜𝖆𝖓𝖙 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖚𝖘𝖊 : sanaddilipkadu@gmail.com
