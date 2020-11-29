@@ -7,17 +7,29 @@
   <br> I'm a Deleuzian interacting with Computers. <br>
 
   <br>
-  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="500" height="400"> 
-
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
+  <img src="https://media.giphy.com/media/3oKIPa5gFnrF4h9ajS/giphy.gif" alt="deleuze GIF" width="50" height="40"> 
 </abc>
 
 </h3> 
 
 
 
-   ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow)  ![](https://img.shields.io/badge/C-%7C-yellowgreen) 
-   
-
+  
 
 
 
