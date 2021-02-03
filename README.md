@@ -21,9 +21,11 @@ src="https://komarev.com/ghpvc/?username=sanadkadu&label=Profile%20views&color=0
 <h3>
  Javascript
 | Lisp
-| Racket
-| Linux System Administration
+| Linux
+| Decentralization Technologies
 | Node/Deno
+| Cryptoeconomics
+| C
 </h3>
 <p>
 
