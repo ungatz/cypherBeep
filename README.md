@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/cypherBeep?template=terminal&isocalendar=1&languages=1&introduction=1&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=Asia%2FKolkata&config.twemoji=true)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
