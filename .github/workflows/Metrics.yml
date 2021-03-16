@@ -105,7 +105,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: jcs090218
+          user: cypherBeep
           template: classic
           base: repositories
           config_timezone: Asia/Kolkata
