@@ -109,3 +109,17 @@ jobs:
           template: classic
           base: repositories
           config_timezone: Asia/Kolkata
+          
+  anilist:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: lowlighter/metrics@master
+       with:
+          filename: anilist.svg
+          token: NOT_NEEDED
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters, watching
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 10
