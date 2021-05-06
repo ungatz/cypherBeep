@@ -111,11 +111,10 @@ jobs:
           config_timezone: Asia/Kolkata
           
   anilist:
-  runs-on: ubuntu-latest
-  steps:
-    - name: 🌸 Anilist plugin (favorites and currently watching)
-        uses: lowlighter/metrics@master
-        with:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: lowlighter/metrics@master
+       with:
           filename: anilist.svg
           token: NOT_NEEDED
           committer_token: ${{ secrets.GITHUB_TOKEN }}
