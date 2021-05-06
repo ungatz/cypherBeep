@@ -114,7 +114,6 @@ jobs:
   runs-on: ubuntu-latest
   steps:
     - name: 🌸 Anilist plugin (favorites and currently watching)
-        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@master
         with:
           filename: anilist.svg
