@@ -1,9 +1,6 @@
 <a href="https://github.com/cypherBeep">
   <img align="center" width="49%" src="./header.svg" />
 </a>
-<a href="https://open.spotify.com/">
-  <img align="center" width="48%" src="https://novatorem-docoddbbh-cypherbeep.vercel.app/api/spotify" />
-</a>
 <a href="https://github.com/cypherBeep">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
